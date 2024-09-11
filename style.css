@@ -1,6 +1,17 @@
 *{
     text-decoration:none ;
  }
+ body{
+    
+        background-image: url('https://slidescorner.com/wp-content/uploads/2024/01/Pastel-Clouds-Lavender-Plain-Background-for-Wallpaper-PPT-and-Google-Slides-by-SlidesCorner.com_.jpg');
+        background-size: cover;       
+       
+      
+ }
+ .color{
+    background-color: rgb(226, 129, 197);
+    padding-left: 30px;
+ }
  .nav-link{
      text-decoration: none;
      font-weight: 600px;
@@ -91,12 +102,16 @@
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
      margin-left: 5%;
  }
+ .ft{
+    background-color: rgb(226, 129, 197);
+    margin-left: 50px;
+    margin-right: 50px;
+ }
  
  .foot{
-     margin-left: 25%;
+     text-align: center;
      margin-top: 20%;
+     padding-bottom: 0px;
+     
  }
- .footer{
-     margin-left: 70%;
-     margin-top: -5%;
- }
+ 
