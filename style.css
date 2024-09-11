@@ -1,0 +1,102 @@
+*{
+    text-decoration:none ;
+ }
+ .nav-link{
+     text-decoration: none;
+     font-weight: 600px;
+     font-size: larger;
+     color: black;
+     cursor: pointer;
+ 
+ }
+ .container{
+     margin-top: 2%;
+     
+ }
+ .home{
+     margin-top:10%;
+     margin-left: 40px;
+     font-size: larger;
+ }
+    
+ 
+ 
+     
+ .hello{
+     border: 3px solid;
+     border-radius: 5px;
+     border-color: #0bceaf;
+     width: 100px;
+     display: block;
+     text-align: center;
+     background-color: #0bceaf;
+     color: rgb(255, 255, 255);
+ }
+ .img{
+     height:150px;
+     width: 150px;
+     margin-top: -100px;
+ }
+ .fab{
+     margin-left: 30px;
+     margin-top: 10%;
+     cursor: pointer;
+     
+ }
+ .fab:hover{
+     color: #0bceaf;
+ }
+ .pic{
+     width: 400px;
+     height: 400px;
+     object-fit: cover;
+ }
+ .about{
+     margin-top: 20%;
+     
+ }
+ .word{
+     width: 150px;
+ }
+ .skill{
+     gap: 3px;
+     border: 2px solid;
+     border-radius: 5px;
+     border-color: #0bceaf;
+     display: block;
+     text-align: center;
+     margin-left: 15px;
+ }
+ .download{
+     margin-top: 8%;
+     margin-left: 25%;
+     border: 2px solid;
+     border-radius: 7px;
+     border-color: #0bceaf;
+     display: block;
+     text-align: center;
+     background-color: #0bceaf;
+ }
+ .center{
+     text-align: center;
+    
+ }
+ .do{
+     margin-top: 10%;
+ }
+ .course{
+     margin-top: 50px;
+     border: 0px solid #000;
+     border-radius: 1px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     margin-left: 5%;
+ }
+ 
+ .foot{
+     margin-left: 25%;
+     margin-top: 20%;
+ }
+ .footer{
+     margin-left: 70%;
+     margin-top: -5%;
+ }
